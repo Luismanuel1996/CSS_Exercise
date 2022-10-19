@@ -16,7 +16,7 @@ section {margin-top: 24px;
 
 .inline {display: inline;}
 
-nav > ul {list style:none;}
+nav > ul {list-style: none;}
 
 body {background-color: #222222; 
     color: #EEEE;}
